@@ -1,0 +1,15 @@
+name: num-lin-alg
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - jupyter
+  - intake
+  - pytorch
+  - numpy
+  - pandas
+  - sympy
+  - kaggle
+  - fastai::fastai
+  - fastai::nbdev
